@@ -1,5 +1,6 @@
 # QuantumHallEfect
 
-Project analyze the phenomenon of Hall conductivity 
-quantization in the so-called Hall bar structure. 
-This effect is a clear manifestation of the quantized Landau levels creation for electrons in the presence of the external magnetic field as well as the appearance of the so-called edge state.
+The project analyzes the quantization of Hall conductivity in the so-called Hall bar structure. 
+Using Quantum which is a free (open source) Python package for numerical computation
+
+This effect is a clear symptom of the formation of quantized Landau levels for electrons in the presence of an external magnetic field and the appearance of the so-called shore state.
